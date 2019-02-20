@@ -1,0 +1,45 @@
+body {
+  background-image: linear-gradient(to right, #1fc8db 51%, #2cb5e8 75%);
+  font-family: Helvetica;
+}
+
+.main-header {
+  color: white;
+  font-size: 40px;
+}
+
+input {
+  background-color: #1fc8db;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  height: 40px;
+  width: 200px;
+}
+h4 {
+  color: #1fc8db;
+  padding: 10px;
+}
+
+.main-header{
+  margin: 10px;
+}
+
+.img-industry {
+  height: 90px;
+  width: 90px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.img-trigger {
+  height: 90px;
+  width: 90px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.img-strategy {
+  height: 90px;
+  width: 90px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
